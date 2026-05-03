@@ -1,0 +1,12 @@
+{
+  "domain": "pelican_panel",
+  "name": "Pelican Panel",
+  "version": "1.0.0",
+  "documentation": "https://github.com/M4RC-XX/homeassistant_pelican_panel/",
+  "issue_tracker": "https://github.com/M4RC-XX/homeassistant_pelican_panel/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@M4RC-XX"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
