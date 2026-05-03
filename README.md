@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="100" height="100" alt="Pelican Panel Logo">
+  <img src="images/logo.svg" width="100" height="100" alt="Pelican Panel Logo">
 </p>
 
 # Pelican Panel Integration for Home Assistant
