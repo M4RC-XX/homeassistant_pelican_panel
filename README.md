@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/github/v/release/M4RC-XX/homeassistant_pelican_panel?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/M4RC-XX/homeassistant_pelican_panel/total?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/M4RC-XX/homeassistant_pelican_panel?style=for-the-badge)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
 <p align="center">
   <img src="images/logo.svg" width="100" height="100" alt="Pelican Panel Logo">
 </p>
